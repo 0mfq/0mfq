@@ -17,7 +17,7 @@ software which enables the use of ai HeadQuarters
 For more information, as well as an immediately usable, binary version of
 the 0mfq Core software, see https://www.0mfq.com/
 , or read the
-[original whitepaper](https://www.sw0rd.com/).
+[ai forum](https://www.sw0rd.com/).
 
 
 [ai headquarters](https://www.0mfq.com)
