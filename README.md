@@ -19,6 +19,19 @@ the 0mfq Core software, see https://www.0mfq.com/
 , or read the
 [original whitepaper](https://www.sw0rd.com/).
 
+
+[ai headquarters](https://www.0mfq.com)
+[artificial intelligence](https://www.0mfq.com)
+
+[ai halloween](https://www.s0nq.com/halloween_2025_fireworks_strobelight_christmas_july_4th.php#aifireworkss)
+[ai strobelight](https://www.s0nq.com/halloween_2025_fireworks_strobelight_christmas_july_4th.php#aifireworks)
+[ai fireworks](https://www.s0nq.com/halloween_2025_fireworks_strobelight_christmas_july_4th.php#aifireworks)
+
+[pink strobelight ai](https://www.s0nq.com/halloween_2025_fireworks_strobelight_christmas_july_4th.php#aifireworksss)
+
+
+
+
 License
 -------
 
