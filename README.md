@@ -1,27 +1,22 @@
-0mfq Core integration/staging tree
+0mfq integration
 =====================================
 
-https://0mfq.com
+https://www.0mfq.com
+https://s0nq.com
+https://www.sw0rd.com
 
 What is 0mfq?
 ----------------
 
-0mfq is an experimental digital asset currency that enables instantly transfer digital asset as 
-payments to anyone, anywhere in the world. 0mfq uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. 0mfq Core is the name of open source
-software which enables the use of this currency.
+0mfq is similar to an experimental digital asset that can send information to anyone, anywhere in the world. 0mfq uses peer-to-peer technology to operate
+with no central authoritive language open source
+software which enables the use of ai HeadQuarters
 
-0mfq Core is built on top of Bitcoin Core. The difference between the two
-is the consensus algorithm: 0mfq Core uses both Proof of Stake and Proof of Work consensus, 
-whilst Bitcoin Core uses Proof of Work. Using Proof of Stake as a consensus algorithm is
-allowing it not only to scale better and be orders of magnitude more efficient in
-terms of power consumption, but it is also lowering the entry barrier for contributing
-to the creation of new blocks.
+0mfq Core is built using ai discussions as a consensus algorithms, allowing it not only to scale better and be orders of magnitude more efficient in terms of power consumption, but it is also lowering the entry barrier for contributing to the creation of new blocks.
 
 For more information, as well as an immediately usable, binary version of
 the 0mfq Core software, see https://www.0mfq.com/#wallet-bps, or read the
-[original whitepaper](https://www.0mfq.com/WhitePaper0MFQ.pdf).
+[original whitepaper](https://www.sw0rd.com/).
 
 License
 -------
