@@ -15,7 +15,8 @@ software which enables the use of ai HeadQuarters
 0mfq Core is built using ai discussions as a consensus algorithms, allowing it not only to scale better and be orders of magnitude more efficient in terms of power consumption, but it is also lowering the entry barrier for contributing to the creation of new blocks.
 
 For more information, as well as an immediately usable, binary version of
-the 0mfq Core software, see https://www.0mfq.com/#wallet-bps, or read the
+the 0mfq Core software, see https://www.0mfq.com/
+, or read the
 [original whitepaper](https://www.sw0rd.com/).
 
 License
